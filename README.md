@@ -336,4 +336,4 @@ embellishment F1 Score: 0.87
 
 **Nikhil Chauhan**
 
-Computer Science Student | Python Developer | Machine Learning Enthusiast
+Python Developer | Machine Learning Enthusiast
